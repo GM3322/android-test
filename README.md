@@ -1,10 +1,12 @@
-### TEST
+# TEST
 The famous countdown app named "text" on tiktok
 
 ![test showcase](https://github.com/GM3322/android-test/assets/84188600/d2889632-7425-4c66-aa47-40553ec0925c)
 
 It originated from Telegram group "Samsungtt"
 The language is "UA" unfortunatelly but i managed to translate it:
+
+# Config the app:
 
 1. Title
 2. Description
