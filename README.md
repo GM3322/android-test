@@ -1,5 +1,5 @@
-# TEST
-The famous countdown app named "text" on tiktok
+# ANDROID TEST COUNTDOWN APP
+The famous countdown app named "test" on tiktok
 
 ![test showcase](https://github.com/GM3322/android-test/assets/84188600/d2889632-7425-4c66-aa47-40553ec0925c)
 
