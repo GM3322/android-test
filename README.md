@@ -17,4 +17,4 @@ The language is "UA" unfortunatelly but i managed to translate it:
 6. Phone number wich will the red button call
 
 # Download
-Check relases or download it here: [Download here]: https://github.com/GM3322/android-test/releases/download/test/test.apk
+Check relases or download it here: https://github.com/GM3322/android-test/releases/download/test/test.apk
